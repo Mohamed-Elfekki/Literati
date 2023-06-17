@@ -1,0 +1,142 @@
+﻿@using UNDEFINED.Constants;
+
+@model IEnumerable<UNDEFINED.Models.DisplayUploadsViewModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
+		<!-- Intro -->
+		<div id="intro">
+			<h1>
+				UNDEFINED
+			</h1>
+			<p>
+			Is here for eager readers who love stories.<br />
+			Read hundreds of stories in minutes, in any genre and theme you like.<br />
+			Browse, search, or get recommendations. Rate, review, and share. Explore the world of Short Stories now!
+			</p>
+			<ul class="actions">
+				<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+			</ul>
+		</div>
+
+		<!-- Header -->
+		<header id="header">
+			<a href="index.html" class="logo">UNDEFINED</a>
+		</header>
+
+		<!-- Nav -->
+	<nav id="nav" style="display:flex; flex-direction:row; justify-content:space-between">
+			<div>
+			<ul class="links">
+				<li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
+				@if (User.Identity.IsAuthenticated && !(User.IsInRole(UserRoles.Admin)))
+				{
+					<li><a asp-action="Create" asp-controller="Uploads" class="icon brands fa-pushed"><span class="label"></span>&nbspPUSH</a></li>
+					<li><a asp-action="Private" asp-controller="Uploads" class="text-danger"><span class="label"></span>&nbspPRIVATE</a></li>
+				}
+				<li><a asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+			</ul>
+			</div>
+
+		@if (User.Identity.IsAuthenticated)
+		{
+			<div>
+				<ul class="links">
+					@if (User.IsInRole(UserRoles.Admin))
+					{
+						<li><a asp-area="Admin" asp-controller="User" asp-action="Index" class="text-success">Dashboard</a></li>
+					}
+					<li><a asp-controller="Account" asp-action="Profile">PROFILE</a></li>
+					<li><a asp-action="Logout" asp-controller="Account">LOGOUT</a></li>
+				</ul>
+			</div>
+		}
+		else
+		{
+			<div>
+				<ul class="links">
+					<li><a asp-controller="Account" asp-action="Login">LOGIN</a></li>
+					<li><a asp-action="Register" asp-controller="Account">REGISTER</a></li>
+				</ul>
+			</div>
+		}
+		</nav>
+
+		<!-- Main -->
+		<div id="main">
+		@if (Model.FirstOrDefault() != null)
+		{
+			<!-- Featured Post -->
+			<article class="post featured">
+				<header class="major">
+					<span class="date">@Model.LastOrDefault().UploadDate</span>
+					<h2>
+						<a href="#">
+							@Model.LastOrDefault().Title
+						</a>
+					</h2>
+				</header>
+				<a href="#" class="image main"><img src="/Uploads/@Model.LastOrDefault().HasedFilePath" alt="" /></a>
+				<p style="text-align:center">
+					@Model.LastOrDefault().Description
+				</p>
+				<ul class="actions special">
+					<li><a asp-action="Info" asp-controller="Uploads" asp-route-id="@Model.LastOrDefault().Id" class="button large">Full Story</a></li>
+				</ul>
+			</article>
+			<div style="border:none">
+				<form asp-controller="Home" asp-action="Result" style="display:flex; flex-direction:row;justify-content:center;align-items:center;align-content:center">
+					<div class="input-group input-group-lg mb-3" style="max-width:750px;border:none;">
+						<input type="text" class="form-control" name="Term" placeholder="Search Here" aria-label="Recipient's username" aria-describedby="button-addon2">
+						<div class="input-group-append">
+							<button class="btn" type="submit" id="button-addon2">Search</button>
+						</div>
+					</div>
+				</form>
+			</div>
+			<section class="posts">
+				@foreach (var item in Model)
+				{
+					<article style="display:flex; flex-direction:column;align-content:center;align-items:center;justify-content:center;align-self:center;">
+						<header>
+							<span class="date">@item.UploadDate</span>
+							<h2>
+								<a href="#">
+									@item.Title
+								</a>
+							</h2>
+						</header>
+						<img class="image fit" src="~/Uploads/@item.HasedFilePath" style="width:400px;height:200px" />
+						<p style="text-align:center">@item.Description</p>
+						<ul class="actions special">
+							<li><a asp-action="Info" asp-controller="Uploads" asp-route-id="@item.Id" class="button large">Full Story</a></li>
+						</ul>
+					</article>
+				}
+			</section>
+
+			<footer>
+				<div class="pagination">
+					<!--<a href="#" class="previous">Prev</a>-->
+					@if (ViewBag.CurrentPage - 1 > 0)
+					{
+						<a href="/Home/Index/?RequiredPage=@(ViewBag.CurrentPage - 1)" style="width:100px">Previous</a>
+					}
+					@if (ViewBag.CurrentPage + 1 <= ViewBag.PagesCount)
+					{
+						<a href="/Home/Index/?RequiredPage=@(ViewBag.CurrentPage + 1)" style="width:100px">Next</a>
+					}
+				</div>
+			</footer>
+			}
+		    else
+		     {
+			  <div class="alert alert-danger text-center" style="height:400px; padding-top:100px;">
+				<strong>"No Content available, Please PUSH some!"</strong>
+			  </div>
+		     }
+		</div>
+	</div>
+

@@ -1,0 +1,54 @@
+﻿@model UNDEFINED.Models.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+<div id="wrapper" class="fade-in">
+	<div id="intro" style="height:fit-content; margin-top:0;padding-top:0;">
+		<h1>
+			Register
+		</h1>
+		@if (TempData["Error"] != null)
+		{
+			<div class="alert alert-danger text-center">
+				<strong>@TempData["Error"]</strong>
+			</div>
+		}
+<div id="footer" style="max-width:50%; border-radius:5px;">
+	<section>
+	   <form method="post" asp-action="Register" asp-controller="Account">
+					<div class="fields" style="display:flex;flex-direction:column; justify-content:center;align-content:center;align-self:center;align-items:center;">
+			<div class="field">
+				<label asp-for="Username">Username</label>
+				<input asp-for="Username" type="text" id="email" />
+				<span asp-validation-for="Username"></span>
+			</div>
+			<div class="field">
+				<label asp-for="Email">Email</label>
+				<input asp-for="Email" type="email"  id="email" />
+				<span asp-validation-for="Email"></span>
+			</div>
+			<div class="field">
+				<label asp-for="Password">Password</label>
+				<input asp-for="Password" type="password" id="email" />
+				<span asp-validation-for="Password"></span>
+			</div>
+			<div class="field">
+				<label asp-for="ConfirmPassword">Confirm Password</label>
+				<input asp-for="ConfirmPassword" type="password" id="email" />
+				<span asp-validation-for="ConfirmPassword"></span>
+			</div>
+			<div class="actions">
+				<br/><input type="submit" value="Register" />
+			</div>
+		</div>
+	</form>
+	</section>
+</div>
+</div>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

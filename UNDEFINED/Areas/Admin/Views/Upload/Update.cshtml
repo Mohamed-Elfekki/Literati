@@ -1,0 +1,34 @@
+﻿@model UNDEFINED.Models.UpdateUploadsViewModel
+@{
+	ViewData["Title"] = "UPDATE Page";
+}
+	<br /><h2 class="text-center text-bold text-success">UNDEFINED | UPDATE Story</h2>
+	<form asp-route-id="@Model.Id" method="post" asp-action="Update" asp-controller="Upload" asp-area="Admin" enctype="multipart/form-data" style="width:100%;display:flex;flex-direction:column; flex-wrap:wrap; justify-content:center;align-items:center; align-self:center;">
+		<div class="card" style=" width:800px; margin:20px 20px 20px 20px; padding:20px 20px 20px 20px;">
+			<div class="mb-3">
+				<label class="form-label text-secondary">Image</label><br />
+				<img class="image fit" src="~/Uploads/@Model.HasedFilePath" style="width:400px;height:200px" />
+			</div>
+			<div class="mb-3">
+				<label asp-for="File" class="form-label text-secondary">Choose file</label>
+				<input asp-for="File" type="file" class="form-control" id="formFile" accept="image/*">
+				<span asp-validation-for="File" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Title" class="form-label text-secondary">Title</label>
+				<input asp-for="Title" type="text" class="form-control" id="exampleFormControlInput1" maxlength="20">
+				<span asp-validation-for="Title"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Description" class="form-label text-secondary">Description</label>
+				<textarea asp-for="Description" class="form-control" id="exampleFormControlTextarea1" rows="3" style="resize:none;"></textarea>
+				<span asp-validation-for="Description"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Fulldescription" class="form-label text-secondary">Full Description</label>
+				<textarea asp-for="Fulldescription" class="form-control" id="exampleFormControlTextarea1" rows="7" style="resize:none;"></textarea>
+				<span asp-validation-for="Fulldescription"></span>
+			</div>
+			<input type="submit" class="btn btn-success btn-lg" value="UPDATE" />
+		</div>
+	</form>

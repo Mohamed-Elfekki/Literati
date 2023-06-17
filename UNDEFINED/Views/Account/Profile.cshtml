@@ -1,0 +1,44 @@
+﻿@model UNDEFINED.Models.UserViewModel
+@{
+	ViewData["Title"] = "Login";
+}
+<div id="wrapper" class="fade-in">
+	<div id="intro" style="height:fit-content; margin-top:0;margin-top:30px;">
+		<h1>Update Your Info</h1>
+		<h2>
+			Welcome @Model.UserName
+		</h2>
+		<div>
+			<div id="footer"style="border-radius:5px;">
+				<section>
+					<form method="post" asp-action="Profile" asp-controller="Account">
+						<div class="fields" >
+							<div class="field">
+								<label asp-for="UserName">Username</label>
+								<input asp-for="UserName" type="text" id="email" required />
+								<span asp-validation-for="UserName"></span>
+							</div>
+							<div class="field">
+								<label asp-for="Email">Email</label>
+								<input asp-for="Email" type="email" id="email" readonly required />
+								<span asp-validation-for="Email"></span>
+							</div>
+							<div class="field">
+								<input type="submit" value="Update" />
+							</div>
+						</div>
+					</form>
+				</section>
+			<partial style="margin-left" name="_ChangePasswordPartial" model="new ChangePasswordViewModel()" />
+			</div>
+		</div>
+
+</div>
+</div>
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
+
+
