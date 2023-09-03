@@ -1,0 +1,19 @@
+﻿@model List<Literati.Areas.Admin.Models.AdminUserViewModel>
+
+@{
+    ViewData["Title"] = "User List";
+}
+
+
+    <section class="content">
+            <div class="card-body pb-0">
+        <h2 class="text-center text-bold text-danger">UNDEFINED | BLOCKED USERS</h2><br />
+                <div class="row">
+
+                @foreach (var item in Model)
+                {
+                   <partial name="_UserCard" model="item" />
+                }
+                </div>
+            </div>
+    </section>

@@ -1,0 +1,87 @@
+﻿@using Literati.Constants;
+
+@model Literati.Models.DisplayUploadsViewModel
+@{
+    ViewData["Title"] = "Info Page";
+}
+
+<div id="wrapper">
+
+	<!-- Intro -->
+	<div id="intro">
+		<h1>
+			Full<br />
+			Story
+		</h1>
+		<ul class="actions">
+			<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+		</ul>
+	</div>
+
+	<!-- Header -->
+	<header id="header">
+		<a href="index.html" class="logo">UNDEFINED</a>
+	</header>
+
+	<!-- Nav -->
+	<nav id="nav" style="display:flex; flex-direction:row; justify-content:space-between">
+		<div>
+			<ul class="links">
+				<li><a asp-controller="Home" asp-action="Index">Home</a></li>
+				@if (User.Identity.IsAuthenticated && !(User.IsInRole(UserRoles.Admin)))
+				{
+					<li class="active"><a asp-action="Info" asp-controller="Uploads"><span class="label"></span>&nbspINFO</a></li>
+					<li><a asp-action="Create" asp-controller="Uploads" class="icon brands fa-pushed"><span class="label"></span>&nbspPUSH</a></li>
+					<li><a asp-action="Private" asp-controller="Uploads" class="text-danger"><span class="label"></span>&nbspPRIVATE</a></li>
+				}
+				<li><a asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+			</ul>
+		</div>
+
+		@if (User.Identity.IsAuthenticated)
+		{
+			<div>
+				<ul class="links">
+					<li><a asp-controller="Home" asp-action="Index">PROFILE</a></li>
+					<li><a asp-action="Logout" asp-controller="Account">LOGOUT</a></li>
+				</ul>
+			</div>
+		}
+		else
+		{
+			<div>
+				<ul class="links">
+					<li><a asp-controller="Account" asp-action="Login">LOGIN</a></li>
+					<li><a asp-action="Register" asp-controller="Account">REGISTER</a></li>
+				</ul>
+			</div>
+		}
+
+	</nav>
+
+	<!-- Main -->
+	<div id="main">
+
+		<!-- Post -->
+		<section class="post">
+			<header class="major">
+				<span class="date">@Model.UploadDate</span>
+				<h1>
+					@Model.Title
+				</h1>
+			</header>
+			<div class="image main"><img src="~/Uploads/@Model.HasedFilePath" alt="" /></div>
+
+
+				<div class="fields"style="text-align:center;">
+			   <div class="field">
+				<label class="h2">Full Story</label>
+				 <textarea style="text-align:center;resize:none; margin-bottom:50px; border:none" rows="10">@Model.Fulldescription</textarea>
+			    </div>
+			  </div>
+
+		</section>
+
+	</div>
+
+</div>

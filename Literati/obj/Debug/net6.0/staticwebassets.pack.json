@@ -1,0 +1,1601 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Literati.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Literati.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\App\\notifications.js",
+      "PackagePath": "staticwebassets\\Admin\\App\\notifications.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locales.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locales.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locales.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locales.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\locales.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locales.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\moment-with-locales.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment-with-locales.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Admin\\plugins\\moment\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\4936eb74-bade-4f0a-a109-f31c0854487b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4936eb74-bade-4f0a-a109-f31c0854487b.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\6fc29cfc-d0b2-436e-bda7-72495f073433.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6fc29cfc-d0b2-436e-bda7-72495f073433.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\92ee5e2d-9eeb-40c1-baba-5c86ab578f4d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\92ee5e2d-9eeb-40c1-baba-5c86ab578f4d.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\b0dbc01f-2340-4a53-9e55-e549c148f168.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b0dbc01f-2340-4a53-9e55-e549c148f168.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\b1e7d49b-5afc-4b24-8b88-db1f6078dcdf.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b1e7d49b-5afc-4b24-8b88-db1f6078dcdf.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\d23952a9-e3a3-4c97-8f08-a92797884f94.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d23952a9-e3a3-4c97-8f08-a92797884f94.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\e0bcd85d-b286-496a-86c6-d2a771e7f076.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e0bcd85d-b286-496a-86c6-d2a771e7f076.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\Uploads\\f53a7a73-0968-4616-b645-9fe88cd20433.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f53a7a73-0968-4616-b645-9fe88cd20433.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\css\\noscript.css",
+      "PackagePath": "staticwebassets\\assets\\css\\noscript.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\js\\breakpoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\breakpoints.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\js\\browser.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\browser.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\js\\jquery.scrollex.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollex.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\js\\jquery.scrolly.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrolly.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\js\\util.js",
+      "PackagePath": "staticwebassets\\assets\\js\\util.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\base\\_page.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_page.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_reset.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_actions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_actions.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_box.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_box.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_button.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_form.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_icon.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_icon.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_image.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_list.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_row.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_row.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_section.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_section.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_table.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\layout\\_intro.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_intro.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\layout\\_main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_main.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\layout\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_nav.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\layout\\_navPanel.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_navPanel.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\layout\\_wrapper.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_wrapper.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\libs\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\libs\\_fixed-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_fixed-grid.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\libs\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_functions.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\libs\\_html-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_html-grid.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\libs\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\libs\\_vars.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vars.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\libs\\_vendor.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\libs\\_vendor.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\sass\\noscript.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\noscript.scss"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\images\\overlay.png"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic01.jpg",
+      "PackagePath": "staticwebassets\\images\\pic01.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic02.jpg",
+      "PackagePath": "staticwebassets\\images\\pic02.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic03.jpg",
+      "PackagePath": "staticwebassets\\images\\pic03.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic04.jpg",
+      "PackagePath": "staticwebassets\\images\\pic04.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic05.jpg",
+      "PackagePath": "staticwebassets\\images\\pic05.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic06.jpg",
+      "PackagePath": "staticwebassets\\images\\pic06.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic07.jpg",
+      "PackagePath": "staticwebassets\\images\\pic07.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic08.jpg",
+      "PackagePath": "staticwebassets\\images\\pic08.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\images\\pic09.jpg",
+      "PackagePath": "staticwebassets\\images\\pic09.jpg"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\VisualStudioProjects\\Literati\\Literati\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Literati.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Literati.props",
+      "PackagePath": "build\\Literati.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Literati.props",
+      "PackagePath": "buildMultiTargeting\\Literati.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Literati.props",
+      "PackagePath": "buildTransitive\\Literati.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
